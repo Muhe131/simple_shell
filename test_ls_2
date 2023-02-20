@@ -1,0 +1,3 @@
+_atoi.c     environ.c  exits.c    getLine.c  lists1.c  memory.c   reallooc.c    string1.c  tokenizer.c
+builtin1.c  errors1.c  getenv.c   history.c  lists.c   parser.c   shell.h       string.c   vars.c
+builtin.c   errors.c   getinfo.c  hsh        main.c    README.md  shell_loop.c  test_ls_2e
